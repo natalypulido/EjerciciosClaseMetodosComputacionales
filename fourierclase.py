@@ -40,4 +40,3 @@ plt.savefig('secret.jpg')
 
 
 
-#ifft inversa 2D
