@@ -1,4 +1,3 @@
-#Nataly Pulido 201216338
 import numpy as np
 
 import matplotlib.pyplot as plt
